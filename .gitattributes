@@ -2,7 +2,3 @@
 *.dart linguist-language=Dart
 *.yaml linguist-language=YAML
 *.gradle linguist-language=Groovy
-
-# C++ dosyalarını dışarıda bırak
-*.cpp linguist-vendored
-*.h linguist-vendored
